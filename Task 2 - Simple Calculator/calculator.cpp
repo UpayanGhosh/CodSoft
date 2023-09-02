@@ -5,7 +5,7 @@ int main()
     char ch;
     while (true)
     {
-        if (ch != 'N' && ch != 'n')
+        if (ch != 'Y' && ch != 'y')
         {
 
             cout << "Simple Calculator" << endl;
